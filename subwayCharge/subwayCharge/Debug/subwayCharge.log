@@ -1,0 +1,68 @@
+﻿生成启动时间为 2017/3/30 21:19:29。
+     1>项目“D:\C_learn\SubwayChargedd\SubwayCharge\subwayCharge\subwayCharge\subwayCharge.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 13.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp subwayCard\subwayCard.cpp subwayCharge.cpp subwayCommand\subwayCmdParse\src\cmdCreateCard.cpp subwayCommand\subwayCmdParse\src\cmdDeductProc.cpp subwayCommand\subwayCmdParse\src\cmdDestroyCard.cpp subwayCommand\subwayCmdParse\src\cmdFillCharge.cpp subwayCommand\subwayCmdParse\src\cmdQueryHistory.cpp subwayCommand\subwayCmdParse\src\cmdQueryLine.cpp subwayCommand\subwayCmdParse\src\cmdReset.cpp subwayCommand\subwayCmdParse\src\cmdSingleTicket.cpp subwayCommand\subwayCmdParse\subwayCmdParse.cpp subwayCommand\subwayCmdProc\src\subwayCreateCardProc.cpp subwayCommand\subwayCmdProc\src\subwayDeductProc.cpp subwayCommand\subwayCmdProc\src\subwayFillChargeProc.cpp subwayCommand\subwayCmdProc\src\subwayQueryHistoryProc.cpp subwayCommand\subwayCmdProc\src\subwayQueryLineProc.cpp subwayCommand\subwayCmdProc\src\subwayResetProc.cpp subwayCommand\subwayCmdProc\src\subwaySingleTicketProc.cpp subwayCommand\subwayCmdProc\subwayCmdProc.cpp subwayCommand\subwayOutput\subwayOutput.cpp subwayCommon\subwayCommonSplit.cpp subwayError\subwayError.cpp subwayLine\subwayLine.cpp subwayPrice\src\basePrice.cpp subwayPrice\src\deductPrice.cpp subwaySocket\subwaySocket.cpp
+         subwaySocket.cpp
+         deductPrice.cpp
+         basePrice.cpp
+         subwayLine.cpp
+         subwayError.cpp
+         subwayCommonSplit.cpp
+         subwayOutput.cpp
+         subwayCmdProc.cpp
+         subwaySingleTicketProc.cpp
+         subwayResetProc.cpp
+         subwayQueryLineProc.cpp
+         subwayQueryHistoryProc.cpp
+         subwayFillChargeProc.cpp
+         subwayDeductProc.cpp
+         subwayCreateCardProc.cpp
+         subwayCmdParse.cpp
+         cmdSingleTicket.cpp
+         cmdReset.cpp
+         cmdQueryLine.cpp
+         cmdQueryHistory.cpp
+         正在生成代码...
+         正在编译...
+         cmdFillCharge.cpp
+         cmdDestroyCard.cpp
+         cmdDeductProc.cpp
+         cmdCreateCard.cpp
+         subwayCharge.cpp
+         subwayCard.cpp
+         stdafx.cpp
+         正在生成代码...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 13.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\C_learn\SubwayChargedd\SubwayCharge\subwayCharge\Debug\subwayCharge.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\C_learn\SubwayChargedd\SubwayCharge\subwayCharge\Debug\subwayCharge.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\C_learn\SubwayChargedd\SubwayCharge\subwayCharge\Debug\subwayCharge.lib" /MACHINE:X86 Debug\stdafx.obj
+         Debug\subwayCard.obj
+         Debug\subwayCharge.obj
+         Debug\cmdCreateCard.obj
+         Debug\cmdDeductProc.obj
+         Debug\cmdDestroyCard.obj
+         Debug\cmdFillCharge.obj
+         Debug\cmdQueryHistory.obj
+         Debug\cmdQueryLine.obj
+         Debug\cmdReset.obj
+         Debug\cmdSingleTicket.obj
+         Debug\subwayCmdParse.obj
+         Debug\subwayCreateCardProc.obj
+         Debug\subwayDeductProc.obj
+         Debug\subwayFillChargeProc.obj
+         Debug\subwayQueryHistoryProc.obj
+         Debug\subwayQueryLineProc.obj
+         Debug\subwayResetProc.obj
+         Debug\subwaySingleTicketProc.obj
+         Debug\subwayCmdProc.obj
+         Debug\subwayOutput.obj
+         Debug\subwayCommonSplit.obj
+         Debug\subwayError.obj
+         Debug\subwayLine.obj
+         Debug\basePrice.obj
+         Debug\deductPrice.obj
+         Debug\subwaySocket.obj
+         subwayCharge.vcxproj -> D:\C_learn\SubwayChargedd\SubwayCharge\subwayCharge\Debug\subwayCharge.exe
+     1>已完成生成项目“D:\C_learn\SubwayChargedd\SubwayCharge\subwayCharge\subwayCharge\subwayCharge.vcxproj”(Rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:31.48
